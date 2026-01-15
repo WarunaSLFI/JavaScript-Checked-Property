@@ -4,4 +4,4 @@ This is a simple HTML, CSS, and JavaScript project that checks username input, s
 
 ## 📸 Project Screenshot
 
-![Project Screenshot](images/project.png)
+![Project Screenshot](project.png)
