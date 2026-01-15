@@ -1,0 +1,19 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgb(228, 246, 246);
+}
+
+button {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+#container {
+  border: 2px solid black; /* Draws the line */
+  padding: 20px; /* Space inside the box */
+  width: 500px; /* Optional: control size */
+  margin: 40px auto; /* Center on page */
+  border-radius: 8px; /* Rounded corners */
+  background-color: aqua;
+}
